@@ -36,7 +36,7 @@ Luego debera presentar el costo del servicio
 <img src="./img/6.1.PNG" with="50%" heigh="50%">
 <br>
 
-1. Determinar si es true o false .
+7.  Determinar si es true o false .
 <br>
 <img src="./img/7.PNG" with="50%" heigh="50%">
 <br>
