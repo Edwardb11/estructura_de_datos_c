@@ -15,10 +15,10 @@ En esta asignatura se abordan los temas correspondientes a las Estructuras de Da
 
  ### Lenguajes de programacion utilizados :pushpin: 
  <br>
- <img src="./img/c.PNG" with="50%" heigh="50%">
+ <img src="./img/c.png" with="50%" heigh="50%">
 <br>
 
-### IDE
+### IDE :pushpin:
 
  <img src="./img/dev.jpg" with="50%" heigh="50%" alt="Dev-C++ ">
 <br>
