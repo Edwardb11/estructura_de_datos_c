@@ -199,18 +199,24 @@ void Barco()
 //mover caracter 
 void MoverCaracter()
 {
-	Limpia(1,80,7,20);
-//	cuadro(1,80,8,12);
-	for (int i = 1; i<=80; i++)
-		for (int j = 1; j<=10; j++)
-	{
-		gotoxy(i,j); printf(" El mundo es mio ",219);
-		Sleep(75);
+int x;
+	Limpia(1,80,1,30);
+	//cuadro(1,80,9,13);
+	for (int i = 1; i<=20; i++){
+		system("CLS");
+		gotoxy(i+x,i);printf("Todo cambia");
+		Sleep(30);
+		x+=4;
 	}
+	for (int j=28;j>=1;j--){
+		gotoxy(j+x,j);printf("Todo cambia");
+		Sleep(30);
+		x-=4;
+		system("CLS");
+	}
+	system("PAUSE");
 
 }
-
-
 //Cupero principal
 int main()
 
