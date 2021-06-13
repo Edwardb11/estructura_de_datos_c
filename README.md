@@ -1,5 +1,5 @@
 ### Estructuras de datos  :date: :pushpin: :book: 
-_Este repositorio se ha ido actualizando segun he ido cursando la materia de "Estructura de datos & Lab de Estructura de datos" en la universidad UCATECI._
+_Este repositorio se ha ido actualizando segun he ido cursando la materia de "Estructura de datos & Lab de Estructura de datos" en la universidad._
 
 
 ###  Descripción General :white_check_mark:
