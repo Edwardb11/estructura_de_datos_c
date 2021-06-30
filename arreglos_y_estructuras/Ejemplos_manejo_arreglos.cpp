@@ -1,6 +1,6 @@
 #include <string.h>
 #include<stdio.h>
-//#include<conio.h>
+#include<conio.h>
 #include<stdlib.h>
 #include <time.h>
 #include <dos.h>
